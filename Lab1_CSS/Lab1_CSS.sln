@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_CSS_1", "Lab1_CSS_1\Lab1_CSS_1.csproj", "{93BDA779-9AFD-4806-8E8D-461F4EFBC903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_CSS_2", "Lab1_CSS_2\Lab1_CSS_2.csproj", "{3EE770FB-D1A6-4A37-896C-305B55BC7B87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93BDA779-9AFD-4806-8E8D-461F4EFBC903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BDA779-9AFD-4806-8E8D-461F4EFBC903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BDA779-9AFD-4806-8E8D-461F4EFBC903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BDA779-9AFD-4806-8E8D-461F4EFBC903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE770FB-D1A6-4A37-896C-305B55BC7B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE770FB-D1A6-4A37-896C-305B55BC7B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE770FB-D1A6-4A37-896C-305B55BC7B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE770FB-D1A6-4A37-896C-305B55BC7B87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFADD1C1-01B9-4021-8096-F70EC95BB019}
+	EndGlobalSection
+EndGlobal
